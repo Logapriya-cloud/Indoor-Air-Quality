@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+plotly
+matplotlib
+seaborn
+passlib
+streamlit-autorefresh
+streamlit-option-menu
+psutil
+wmi
